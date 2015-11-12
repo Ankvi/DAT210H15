@@ -8,4 +8,4 @@
 * Alle endringer (rating, tagging, kommentarer, osv) skal og lagres som metadata i bildefilen (EXIF/XMP).
 * Man skal, fra en klient, kunne raskt søke etter bilder basert på metadata. 
 * Man skal, fra en klient, raskt kunne bla igjennom bildene fra klienten. 
-* Man skal, fra en klient, importere bilder fra f.eks. minnekort eller lokal disk inn til bildebasen. 
+* Man skal, fra en klient, importere bilder fra f.eks. et minnekort eller en lokal disk inn til bildebasen. 
